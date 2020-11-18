@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://zen-meitner-afc3e.netlify.app/"
 languageCode = "en-us"
 title = "Blog van Joost"
 theme = "blackburn"
