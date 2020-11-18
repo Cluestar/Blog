@@ -51,7 +51,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "CV"
     pre = "<i class='fa fa-file fa-fw'></i>"
     weight = 5
-    urk = "/CV/"
+    url = "/CV/"
 [social]
   # Link your social networking accouns to the side menu
   # by entering your username or ID.
